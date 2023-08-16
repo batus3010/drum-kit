@@ -1,5 +1,8 @@
 # Drum Kit Website
 This repository contains a simple web application that simulates a drum kit. Users can interact with the virtual drum set by clicking on the drum buttons or pressing corresponding keys on their keyboard.
+
+## Live preview: https://batus3010.github.io/drum-kit/
+
 ## Table of Contents
 - [Introduction](#introduction)
 - Usage
